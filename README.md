@@ -7,4 +7,4 @@
 
 
 ## Informações
-* Neste projeto foi criado uma tela de login , como tela inicial para projetos.
+- Neste projeto foi criado uma tela de login , como tela inicial para projetos.
